@@ -1,0 +1,8 @@
+c:\users\asmou\source\repos\Frends.Split\Frends.Split\bin\Debug\Frends.Split.dll
+c:\users\asmou\source\repos\Frends.Split\Frends.Split\bin\Debug\Frends.Split.pdb
+c:\users\asmou\source\repos\Frends.Split\Frends.Split\bin\Debug\Newtonsoft.Json.dll
+c:\users\asmou\source\repos\Frends.Split\Frends.Split\bin\Debug\Newtonsoft.Json.xml
+c:\users\asmou\source\repos\Frends.Split\Frends.Split\obj\Debug\Frends.Split.csprojResolveAssemblyReference.cache
+c:\users\asmou\source\repos\Frends.Split\Frends.Split\obj\Debug\Frends.Split.csproj.CoreCompileInputs.cache
+c:\users\asmou\source\repos\Frends.Split\Frends.Split\obj\Debug\Frends.Split.dll
+c:\users\asmou\source\repos\Frends.Split\Frends.Split\obj\Debug\Frends.Split.pdb
